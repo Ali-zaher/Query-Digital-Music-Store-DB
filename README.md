@@ -1,7 +1,7 @@
 # Query-Digital-Music-Store-DB
 Query a digital music store data base and come up with insights 
 ## Introduction 
-investigate ERD, run relevant SQL quaries to answer statistical questions about the business 
+investigate ERD, run relevant SQL queries to answer statistical questions about the business 
 ## Installation 
 DB Browser (SQLite) was used  
 db = chinook  
